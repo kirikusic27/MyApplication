@@ -3,7 +3,6 @@ package com.troshkov.app1;
 import android.os.Bundle;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
-import com.troshkov.mylibrary.DataHelper;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.navigation.NavController;
